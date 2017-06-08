@@ -1,0 +1,9 @@
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\bin\Debug\Programa Simple.exe.config
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\bin\Debug\Programa Simple.exe
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\bin\Debug\Programa Simple.pdb
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\obj\Debug\Programa Simple.csprojResolveAssemblyReference.cache
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\obj\Debug\Programa_Simple.Form1.resources
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\obj\Debug\Programa_Simple.Properties.Resources.resources
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\obj\Debug\Programa Simple.csproj.GenerateResource.Cache
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\obj\Debug\Programa Simple.exe
+C:\Users\gallo\Desktop\Programa Simple\Programa Simple\obj\Debug\Programa Simple.pdb

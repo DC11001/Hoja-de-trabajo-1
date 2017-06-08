@@ -1,0 +1,12 @@
+Para la función de hipotenusa debe de utilizar los dos cuadros de texto superiores.  
+Ingrese valores enteros. 
+
+Para la función invertir puede usar cualquier cuadro de texto y el resultado se desplegará
+en el mismo. 
+
+Para la regla de 3 debe utilizar valores numéricos enteros y la relación 
+de dos de ellos con el tercero le será devuelta en el cuadro inferior derecho.
+
+Para las vocales puede utilizar cualquier cuadro de texto y el resultado será desplegado en
+una ventana emergente.  
+
