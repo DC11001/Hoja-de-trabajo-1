@@ -1,0 +1,16 @@
+¿Qué entiende como "commit"?
+Cambios o anotaciones que hacemos en los archivos de nuestro proyecto ya sea el código fuente, o 
+cualquier otro que nos sea de utilidad. 
+¿Qué entiende como "merge"?
+Unificar las diferentes ramas de nuestro repositorio y obtener un proyecto de las diversas ramas
+que habiamos creado a lo largo del desarrollo. 
+¿Cuál es la diferencia entre "Pull" y "Push"?
+Pull lo utilizamos para actualizar los datos desde la nube hacia nuestra computadora y Push 
+para actualizar desde nuestra computadora a la nube. 
+¿Cómo utilizar ramas ("branches") en la aplicación?
+Seleccionamos la opción branch para crear nuevas ramas o para borrar alguna existente. 
+Las ramas las utilizamos para contribuir con otras personas o si otras personas quieren
+contribuir con nosotros. Partiendo desde cierto punto en donde si bifurcan según los 
+nuevos cambios o commits que realizemos. Asi podremos seguir realizando cambios sin 
+afectar la rama original o raiz con estos cambios. Hasta el momento en que decidamos 
+unificarlas al hacer un <<merge>>.
