@@ -45,7 +45,20 @@ namespace Programa_Simple
 
         private void button3_Click(object sender, EventArgs e)
         {
-          
+            String linea1 = textBox1.Text;
+            string linea2 = textBox2.Text;
+            char[] a = linea1.ToCharArray();
+            char[] b = linea2.ToCharArray();
+            textBox1.Text = "";
+            textBox2.Text = "";
+            for (int i = linea1.Length - 1; i >= 0; i--)
+            {
+                textBox1.Text += a[i];
+            }
+            for (int i = linea2.Length - 1; i >= 0; i--)
+            {
+                textBox2.Text += b[i];
+            }
         }
         private void button4_Click(object sender, EventArgs e)
         {
