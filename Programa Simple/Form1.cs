@@ -41,8 +41,39 @@ namespace Programa_Simple
         private void button2_Click(object sender, EventArgs e)
         {
 
-        }
+            Boolean v1, v2, v3, v4, v5;
+            v1 = comprobar('a');
+            v2 = comprobar('e');
+            v3 = comprobar('i');
+            v4 = comprobar('o');
+            v5 = comprobar('u');
+            if (v1 & v2 & v3 & v4 & v5 == true)
+            {
+                MessageBox.Show("La palabra contiene las 5 vocales", "Exitoooo");
+            }else
+            {
+                MessageBox.Show("La palabra no  contiene las 5 vocales", "Mal :C");
+            }
 
+            
+            
+
+            
+        }
+        public Boolean comprobar(char v)
+        {
+            String linea1 = textBox1.Text.ToLower();
+            char[] a = linea1.ToCharArray();
+            for (int i = 0; i < linea1.Length; i++ )
+            {
+                if (a[i]==v)
+                {
+                    return true;
+                }
+            }
+            return false;
+            
+        }
         private void button3_Click(object sender, EventArgs e)
         {
             String linea1 = textBox1.Text;
