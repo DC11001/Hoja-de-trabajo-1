@@ -62,7 +62,19 @@ namespace Programa_Simple
         }
         private void button4_Click(object sender, EventArgs e)
         {
-          
+            try
+            {
+                int a, b, c, d;
+                a = int.Parse(textBox1.Text);
+                b = int.Parse(textBox2.Text);
+                c = int.Parse(textBox3.Text);
+                d = b * c / a;
+                label1.Text = "x= " + d;
+            }
+            catch
+            {
+                MessageBox.Show("Verifique que los 3 valores estén ingresados y que sean números enteros", "Te estoy vigilando");
+            }
         }
 
         private void label2_Click(object sender, EventArgs e)
