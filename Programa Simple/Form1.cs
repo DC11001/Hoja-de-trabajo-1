@@ -90,6 +90,7 @@ namespace Programa_Simple
             {
                 textBox2.Text += b[i];
             }
+            MessageBox.Show(textBox1.Text +" "+textBox2.Text+" 201408473");
         }
         private void button4_Click(object sender, EventArgs e)
         {
